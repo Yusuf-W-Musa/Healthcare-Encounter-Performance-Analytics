@@ -54,8 +54,6 @@
 - [Limitations](#limitations)
 - [Future Improvements](#future-improvements)
 - [Key Takeaway](#key-takeaway)
-- [Portfolio Highlights](#portfolio-highlights)
-- [Author](#author)
 
 
 ## Project Overview
